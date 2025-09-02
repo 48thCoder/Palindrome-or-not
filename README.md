@@ -1,4 +1,4 @@
-# Palindrome or not ?
+# Palindrome or not?
 This Palindrome Checker built with HTML, CSS, and JS is a simple web - based tool that allows users to input a word, phrase, or number and check whether it reads the same forwards and backwards i.e. if it is a palindrome or not.
 
 ## 📍Features :
